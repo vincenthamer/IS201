@@ -1,0 +1,47 @@
+
+body {
+  background-color: #caf9f0;
+}
+h1 {
+    font-family: Arial, sans-serif;
+    color: #05154b;
+    
+  }
+  .center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+
+  ul {
+    list-style-type: circle;
+  }
+  
+  ol {
+    list-style-type: decimal;
+  }
+  
+  #my-video {
+    width: 100%;
+    height: 400px;
+  }
+  
+  .my-div {
+    border: 2px solid #333333;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .red-text {
+    color: #ff0000;
+  }
+  
+  .blue-text {
+    color: #0000ff;
+  }
+  
+  .green-text {
+    color: #008000;
+  }
+  
